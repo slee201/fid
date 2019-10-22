@@ -1,0 +1,113 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+
+	<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>League of Legends Champions</title>
+	
+	<style type="text/css">
+		td {border:ridge 3px #3E4958; padding: 5px;}
+		th {border:ridge 3px #CAAA72; padding: 5px;}
+		table {border:ridge 10px #CAAA72; background-color:#0A1F35;}
+	</style>
+	
+	</head>
+		<body>
+		<font size="2" face="Arial" color="#EBF2E6">
+			
+			<table>
+			<tbody><tr>
+				<th><h3>Champion</h3></th>
+				<th><h3>Role</h3></th>
+				<th><h3>Origin</h3></th>
+				<th><h3>Runes</h3></th>
+				<th><h3>Mastery</h3></th>
+				<th><h3>Position</h3></th>
+			</tr>
+			
+			<tr>
+					<td align="center"><h4>Garen</h4><p><img src="garen.png" alt="garen" height="100" width="100"></p></td>
+					<td align="center">Fighter/Tank</td>
+					<td align="center">Demacia</td>	
+					<td align="center">Precision</td>
+					<td align="center">Resolve</td>
+					<td align="center">Top</td>
+			</tr>
+
+			<tr>
+					<td align="center"><h4>Galio</h4><p><img src="galio.png" alt="galio" height="100" width="100"></p></td>
+					<td align="center">Mage/Tank</td>
+					<td align="center">Demacia</td>	
+					<td align="center">Resolve</td>
+					<td align="center">Inspiration</td>
+					<td align="center">Mid</td>
+			</tr>
+
+			<tr>
+					<td align="center"><h4>Kayle</h4><p><img src="kayle.png" alt="kayle" height="100" width="100"></p></td>
+					<td align="center">Fighter/Support</td>
+					<td align="center">Demacia</td>	
+					<td align="center">Inspiration</td>
+					<td align="center">Resolve</td>
+					<td align="center">Top</td>
+			</tr>
+			
+			<tr>
+					<td align="center"><h4>Morgana</h4><p><img src="morgana.png" alt="morgana" height="100" width="100"></p></td>
+					<td align="center">Mage/Support</td>
+					<td align="center">Demacia</td>	
+					<td align="center">Sorcery</td>
+					<td align="center">Inspiration</td>
+					<td align="center">Mid/Support</td>
+			</tr>
+			
+			<tr>
+					<td align="center"><h4>Lucian</h4><p><img src="lucian.png" alt="lucian" height="100" width="100"></p></td>
+					<td align="center">Marksman</td>
+					<td align="center">Demacia</td>	
+					<td align="center">Precision</td>
+					<td align="center">Inspiration</td>
+					<td align="center">Bot</td>
+			</tr>
+			
+			<tr>
+					<td align="center"><h4>Vayne</h4><p><img src="vayne.png" alt="vayne" height="100" width="100"></p></td>
+					<td align="center">Assassin/Marksman</td>
+					<td align="center">Demacia</td>	
+					<td align="center">Precision</td>
+					<td align="center">Domination</td>
+					<td align="center">Bot</td>
+			</tr>
+			
+			<tr>
+					<td align="center"><h4>Sona</h4><p><img src="sona.png" alt="sona" height="100" width="100"></p></td>
+					<td align="center">Mage/Support</td>
+					<td align="center">Demacia</td>	
+					<td align="center">Sorcery</td>
+					<td align="center">Inspiration</td>
+					<td align="center">Support</td>
+			</tr>
+
+			<tr>
+					<td align="center"><h4>Quinn</h4><p><img src="quinn.png" alt="quinn" height="100" width="100"></p></td>
+					<td align="center">Assassin/Marksman</td>
+					<td align="center">Demacia</td>	
+					<td align="center">Precision</td>
+					<td align="center">Resolve</td>
+					<td align="center">Top</td>
+			</tr>
+			
+		</tbody></table>
+
+		</font></body>
+
+
+</html>
